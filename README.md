@@ -4,6 +4,9 @@ I'm a passionate **React developer** with 2 years of experience building dynamic
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adarshprakash4567&color=blue)
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<br><br>
+
 ## 🔧 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
