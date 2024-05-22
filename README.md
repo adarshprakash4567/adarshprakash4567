@@ -39,7 +39,6 @@ I'm a passionate **React developer** with 2 years of experience building dynamic
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:amadarshprakash@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/adarsh-prakash-a6b50a18b)
 
 Let's build something amazing together!
 
