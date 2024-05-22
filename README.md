@@ -2,7 +2,7 @@
 
 I'm a passionate **React developer** with 2 years of experience building dynamic and responsive web applications. I love clean code, modern JavaScript, and creating seamless user experiences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=adarshprakash4567&color=blue)
 
 ## 🔧 Technologies & Tools
 
