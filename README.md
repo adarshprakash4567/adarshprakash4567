@@ -24,10 +24,6 @@ I'm a passionate **React developer** with 2 years of experience building dynamic
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A29E4?logo=daisyui&logoColor=white&style=for-the-badge)
-![Shadcn](https://img.shields.io/badge/-Shadcn-5A29E4?logo=shadcn&logoColor=white&style=for-the-badge)
-![Acernity UI](https://img.shields.io/badge/-Acernity%20UI-5A29E4?logo=acernity-ui&logoColor=white&style=for-the-badge)
-![Stripe Payment](https://img.shields.io/badge/-Stripe%20Payment-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
-
 
 
 ## 📈 GitHub Stats
